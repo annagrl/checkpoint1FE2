@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&family=Judson&family=Sacramento&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box
+   }
+
+body{
+    background-color: pink;
+    color: black;
+    font-family: 'Judson', serif;
+    justify-content: center;
+    text-align: center;
+}  
+
+h1{
+    font-family: 'Clicker Script', cursive;
+    margin-top:3rem;
+    margin-bottom:3rem;
+
+}
+.navbar-brand{
+    font-family: 'Clicker Script', cursive;
+}
+
+ul li a{
+    font-family: 'Judson', serif;
+}
+
+
+p{
+    font-size:1.1rem;
+}
+
+
+input{
+    margin-top:1rem;
+    margin-bottom: 1rem;
+    padding:.5rem;
+    border-radius: 10px;
+}
+.button{
+    background-color: rgba(163, 161, 161, 0.781);
+    margin-top:1rem;
+    margin-bottom: 3rem;;
+}
+footer{
+    background-color:pink;
+    text-align: center;
+    color: black;
+    font-family: 'Judson', serif;
+
+}
